@@ -25,14 +25,14 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Qual foi o comando mais útil que você aprendeu? Por quê?**
 
 O comando de vizualização de conteudo:
-# Ver arquivo completo
+ Ver arquivo completo
 cat exemplos/origem.txt > outputs/ex8_cat.txt
 Pois permite acesso visual ao conteúdo completo do arquivo
 
 **2. Qual comando você achou mais difícil de entender? Por quê?**
 
 Os comandos de cpiar arquivos, principalmente o comando:
-# Copiar múltiplos arquivos
+ Copiar múltiplos arquivos
 cp exemplos/*.txt meu_diretorio/subdir1/
 Não estou acostumada com a plataforma ainda e achei a representação visual desses comandos menos sugestiva.
 
