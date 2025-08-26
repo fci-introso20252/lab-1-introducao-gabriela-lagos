@@ -1,0 +1,6 @@
+/workspaces/lab-1-introducao-gabriela-lagos/exemplos
+/workspaces/lab-1-introducao-gabriela-lagos
+/workspaces/lab-1-introducao-gabriela-lagos/docs
+/workspaces/lab-1-introducao-gabriela-lagos/outputs
+/workspaces/lab-1-introducao-gabriela-lagos
+/workspaces/lab-1-introducao-gabriela-lagos
